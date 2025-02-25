@@ -29,7 +29,7 @@
     <div class="container">
         <div class="section">
             <h2>Gotong Royong di Rumah</h2>
-            <img src="arirumah.jpg" alt="Gotong Royong di Rumah">
+            <img src="arilrumah.jpg" alt="Gotong Royong di Rumah">
         </div>
         <div class="section">
             <h2>Gotong Royong di Masyarakat</h2>
